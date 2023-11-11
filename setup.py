@@ -19,6 +19,7 @@ setup(name='monday',
       zip_safe=False,
       license='BSD',
       python_requires='>=3.6',
+      install_requires=["requests"],
       classifiers=[
           "Programming Language :: Python :: 3",
           "Programming Language :: Python :: 3.6",
