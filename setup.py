@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 from setuptools import setup
 
-__version__ = '1.3.3.bh'
+__version__ = '1.3.3'
 __author__ = 'Christina D\'Astolfo'
 __email__ = 'chdastolfo@gmail.com, lemi@prodperfect.com, pevner@prodperfect.com'
 
