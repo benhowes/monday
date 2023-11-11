@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 from setuptools import setup
 
-from monday import __author__, __email__, __version__
+__version__ = '1.3.3.bh'
+__author__ = 'Christina D\'Astolfo'
+__email__ = 'chdastolfo@gmail.com, lemi@prodperfect.com, pevner@prodperfect.com'
 
 with open("README.md", "r") as fh:
     long_description = fh.read()
